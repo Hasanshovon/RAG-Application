@@ -5,3 +5,7 @@ langchain-community
 langchain-ollama 
 chromadb 
 pypdf
+llama-index-core
+llama-index-embeddings-ollama
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
